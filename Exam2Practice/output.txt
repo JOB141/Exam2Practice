@@ -1,0 +1,7 @@
+Downton Travel Page 01
+Date 30/05/2023
+Holiday No   Destination                 Departure Date   Cost       Available
+205         Barcelona                   12/09/2008 00:00:00 259.99     Yes
+210         Madrid                      12/01/2023 00:00:00 260.99     No
+211         Paris                       13/02/2020 00:00:00 400.69     No
+212         Lisbon                      20/05/1996 00:00:00 12         Yes

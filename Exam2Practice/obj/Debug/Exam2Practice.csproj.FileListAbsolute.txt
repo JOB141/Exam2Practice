@@ -1,0 +1,11 @@
+C:\Users\jacko\source\repos\Exam2Practice\bin\Debug\Exam2Practice.exe.config
+C:\Users\jacko\source\repos\Exam2Practice\bin\Debug\Exam2Practice.exe
+C:\Users\jacko\source\repos\Exam2Practice\bin\Debug\Exam2Practice.pdb
+C:\Users\jacko\source\repos\Exam2Practice\obj\Debug\Exam2Practice.csproj.AssemblyReference.cache
+C:\Users\jacko\source\repos\Exam2Practice\obj\Debug\Exam2Practice.csproj.SuggestedBindingRedirects.cache
+C:\Users\jacko\source\repos\Exam2Practice\obj\Debug\Exam2Practice.frmHoliday.resources
+C:\Users\jacko\source\repos\Exam2Practice\obj\Debug\Exam2Practice.Properties.Resources.resources
+C:\Users\jacko\source\repos\Exam2Practice\obj\Debug\Exam2Practice.csproj.GenerateResource.cache
+C:\Users\jacko\source\repos\Exam2Practice\obj\Debug\Exam2Practice.csproj.CoreCompileInputs.cache
+C:\Users\jacko\source\repos\Exam2Practice\obj\Debug\Exam2Practice.exe
+C:\Users\jacko\source\repos\Exam2Practice\obj\Debug\Exam2Practice.pdb
